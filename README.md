@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Casey 👋
 
-<!--
-**Fa22Orbit/Fa22Orbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Engineering student at the University of British Columbia interested in:
 
-Here are some ideas to get you started:
+- Embedded Systems
+- Hardware/Software Integration
+- Computer Architecture
+- Computer Vision
+- Intelligent Devices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building systems that connect software with the physical world. From Raspberry Pi-based computer vision platforms to embedded hardware prototypes.
+
+---
+
+## 🔧 Featured Projects
+
+### 🧠 Smart Desk Assistant
+Raspberry Pi 5 based intelligent workspace assistant integrating:
+- Computer vision
+- Sensors
+- Embedded Linux
+- Real-time feedback
+
+Technologies:
+Python · OpenCV · MediaPipe · TensorFlow Lite · Raspberry Pi · Linux · GPIO · Debugging
+
+[[View Project →](https://github.com/HXP001W/CPME246-Smart-Desk-Assistant-L2A-G5)]
+
+---
+
+## 🛠 Technical Skills
+
+### Languages
+- C/C++
+- Python
+- Java
+- MATLAB
+
+### Embedded & Hardware
+- Raspberry Pi
+- Arduino
+- Microcontrollers
+- GPIO
+- Sensors
+- Embedded Linux
+- Digital Logic
+
+### Software
+- OpenCV
+- MediaPipe
+- TensorFlow Lite
+- Git
+- Linux
+- Microsoft Excel
+
+---
+
+## 📫 Contact
+
+LinkedIn: [[LinkedIn](https://www.linkedin.com/in/guanyu-hu/)]
