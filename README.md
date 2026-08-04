@@ -15,6 +15,9 @@ I enjoy building systems that connect software with the physical world. From Ras
 ## 🔧 Featured Projects
 
 ### 🧠 Smart Desk Assistant
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-5-red)
+
 Raspberry Pi 5 based intelligent workspace assistant integrating:
 - Computer vision
 - Sensors
